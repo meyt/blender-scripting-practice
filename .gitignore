@@ -1,0 +1,6 @@
+venv/
+.vscode/
+*.png
+*.blend
+*.cpython*
+__pycache__/
